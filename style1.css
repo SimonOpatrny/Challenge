@@ -1,0 +1,10 @@
+body{
+background-color: rgb(37, 37, 37);
+}
+.karta{
+    display: flex;
+    justify-content: center;
+}
+.miniballs{
+position: absolute;
+}
